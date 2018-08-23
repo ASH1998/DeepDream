@@ -1,0 +1,1 @@
+This model h5 is to be downloaded from inception.py maybe_download()
